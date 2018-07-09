@@ -1,0 +1,5 @@
+﻿1.import的包用双引号封闭
+
+2.程序入口为func main(){}
+
+3."fmt"中的标准输入输出方法为Println而非println，首字母注意大写
