@@ -12,7 +12,7 @@ func main(){
 	a, b = b, a
 	e, f, g := 7, 5.5, "TEST"
 	fmt.Println(a, b, c, d, e, f, g)
-	fmt.Println()
+	fmt.Println("test")
 	fmt.Println("OK")
 }
 
